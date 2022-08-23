@@ -1,11 +1,11 @@
-<h1 align="center">Lading Page</h1>
+<h1 align="center">Contador</h1>
 
 <hr>
  
-<h3 align="center">Status: Em Desenvolvimento</h3>
+<h3 align="center">Status: Concluido</h3>
 
 ## Sobre o projeto:
-<p>O projeto consiste na prática e elaboração de uma Lading Page, sempre melhorando e aprimorando o Front-end.</p>
+<p>O projeto consiste na prática e elaboração de um Contador, sempre melhorando e aprimorando o Front-end.</p>
 
 <hr>
 
@@ -13,7 +13,7 @@
 
 
 
-![Ladingpage-Bitcoin](https://user-images.githubusercontent.com/90585409/181583173-566d85cf-0b67-42d9-bbde-3d5a813230e9.gif)
+![Contador-javascript](https://user-images.githubusercontent.com/90585409/186186541-8c46a51b-20ef-44e1-82a5-b893540cd025.gif)
 
 
 <hr>
@@ -24,6 +24,8 @@
   <tr>
     <td>HTML</td>
     <td>CSS</td> 
+    <td>JAVASCRIPT</td>
+    
   </tr>
 </table>
 
